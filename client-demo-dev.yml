@@ -1,2 +1,5 @@
 resume:
   name: "a"
+
+server:
+  port: 7777
