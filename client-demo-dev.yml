@@ -1,6 +1,6 @@
 resume:
   name: "z"
-  age: 20
+  age: 27
   sex: "male"
 server:
   port: 7777
